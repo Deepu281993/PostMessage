@@ -1,0 +1,15 @@
+export default {
+  Hi: 'Hi',
+  UserName: 'Deepak',
+  Comment: 'Comment',
+  Delete: 'Delete',
+  NoDataFound: 'No Data Found',
+  DeletedSuccessfully: 'Deleted Successfully',
+  EmptyTitle: 'Please enter title',
+  AddedSuccessfully: 'Post Added Successfully',
+  NoComments: 'No Comments Yet!!',
+  Error: 'Something went wrong',
+  AddPost: 'Add Post',
+  Title: 'Title',
+  Post: 'Post',
+};
